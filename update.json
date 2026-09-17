@@ -1,1 +1,8 @@
 
+{
+  "forceUpdate": false,
+  "minVersion": 1,
+  "updateTitle": "Update Required",
+  "updateMessage": "Please update Smart Counter to continue.",
+  "updateButton": "UPDATE"
+}
