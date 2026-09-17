@@ -1,6 +1,6 @@
 {
-  "forceUpdate": false,
-  "minVersion": 1,
+  "forceUpdate": true,
+  "minVersion": 2,
   "updateTitle": "Update Available",
   "updateMessage": "A new version of Smart Counter is available. Please update the app.",
   "updateButton": "UPDATE",
